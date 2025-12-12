@@ -26,7 +26,6 @@ Cada ator tem páginas próprias com seus respectivos filmes, galerias e um carr
 - Background dinâmico (video / image) com fallback para imagem estática  
 - Galeria com Fancybox para visualização em tela cheia e zoom  
 - Navegação interna por ator / filme; ícone Home (SVG) para voltar ao `index.html`  
-- Links com `target="_blank"` quando desejado
 
 ---
 
